@@ -42,8 +42,7 @@ TO DO List:
 - [x] Acrescentar o projeto no seu portfólio
  
 
-Referências Figma: 
-Link Wireframe e Protótipo do App: Wireframe App – Figma 
+##### Observações: Estrutura do projeto feito pelo tutor Rodrigo Alexandre/ Head UX/UI Designer Dio, criei novo tema do projeto com a base ensinada pelo tutor.
   
   ## Assuntos abordados no curso:
   
